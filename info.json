@@ -1,0 +1,7 @@
+{
+	"name": "things",
+	"displayName": "Things",
+	"description": "Add tasks to Things.app",
+	"examples": ["things task", "th task"],
+	"categories": ["Utilities"]
+}
