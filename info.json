@@ -1,7 +1,10 @@
 {
 	"name": "things",
 	"displayName": "Things",
+	"displayName_ja": "Things",
 	"description": "Add tasks to Things.app",
+	"description": "Things.app へタスクを追加します",
 	"examples": ["things task", "th task"],
+	"examples_ja": ["things タスク", "th タスク"],
 	"categories": ["Utilities"]
 }
